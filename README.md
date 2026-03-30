@@ -8,11 +8,11 @@ An Obsidian-based vault that runs as an AI student employee — ingesting emails
 
 ## 🏆 What We Built
 
-| Tier | Scripts |
-|------|---------|
-| 🥉 **Bronze** | `gmail_watcher.py`, `filesystem_watcher.py`, `plan_generator.py`, `scheduler.py`, `hitl_approval.py`, `mcp_email_sender.py` |
-| 🥈 **Silver** | `ralph_wiggum_hook.py`, `ceo_briefing.py`, `error_recovery.py`, `audit_logger.py`, `audit_tool_hook.py` |
-| 🥇 **Gold** | Integrated all scripts into a complete autonomous pipeline with `start_vault.bat`, full audit trail, HITL gates, and stop hook blocking |
+| Tier | What was built |
+|------|---------------|
+| 🥉 **Bronze** | Installed Obsidian vault, connected with Claude Code, created `Inbox/`, `Needs_Action/`, `Done/` folders, built `filesystem_watcher.py` |
+| 🥈 **Silver** | `gmail_watcher.py`, `plan_generator.py`, `scheduler.py`, `mcp_email_sender.py` |
+| 🥇 **Gold** | `ceo_briefing.py`, `error_recovery.py`, `audit_logger.py`, `ralph_wiggum_hook.py`, `audit_tool_hook.py` |
 
 ---
 

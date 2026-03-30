@@ -1,0 +1,1 @@
+2026-03-28 05:40:51 [WARNING] vault.error_recovery — ⚠️ This is a test WARNING alert from the CLI. | context: Triggered manually via: python error_recovery.py test-alert | script: error_recovery.py

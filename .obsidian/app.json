@@ -1,1 +1,9 @@
-{}
+{
+  "userIgnoreFilters": [
+    "bin",
+    "lib",
+    "lib64",
+    "include",
+    "venv"
+  ]
+}

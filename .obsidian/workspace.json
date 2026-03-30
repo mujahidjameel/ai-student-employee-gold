@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "scripts/skills/audit_logging/SKILL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "SKILL"
             }
           }
         ]
@@ -31,10 +31,10 @@
             "id": "b8adaedb31a26abf",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -201,8 +201,14 @@
   },
   "active": "b8a1ab8940eae25d",
   "lastOpenFiles": [
-    "Company_Handbook.md",
+    "Needs_Action/2026-03-24 Task - 00d4069e-e2af-4800-99e1-4ed29df309b8(1).jpeg.md",
+    "Needs_Action/00d4069e-e2af-4800-99e1-4ed29df309b8(1).jpeg",
+    "Plan.md",
     "Dashboard.md",
-    "Welcome.md"
+    "Needs_Action/student-task.md",
+    "Welcome.md",
+    "Inbox/student-task.md",
+    "Needs_Action/2026-03-25 Email - Re Etsy Conversation with Tuấn (12).md",
+    "Company_Handbook.md"
   ]
 }

@@ -1,0 +1,28 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python /mnt/d/AI-EMPLOYEE-VAULT/scripts/audit_tool_hook.py",
+            "statusMessage": "Auditing tool call..."
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python /mnt/d/AI-EMPLOYEE-VAULT/scripts/ralph_wiggum_hook.py",
+            "statusMessage": "Ralph checking Needs_Action..."
+          }
+        ]
+      }
+    ]
+  }
+}

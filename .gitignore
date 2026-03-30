@@ -20,9 +20,7 @@ lib64
 pyvenv.cfg
 
 # Personal vault data
-Needs_Action/
-Done/
-Plan.md
+# (tracked intentionally)
 
 # OS
 .DS_Store
